@@ -1,0 +1,10 @@
+D:\Desktop\IPAddressConfigurator\IPAddressConfigurator\bin\Debug\IPAddressConfigurator.exe.config
+D:\Desktop\IPAddressConfigurator\IPAddressConfigurator\bin\Debug\IPAddressConfigurator.exe
+D:\Desktop\IPAddressConfigurator\IPAddressConfigurator\bin\Debug\IPAddressConfigurator.pdb
+D:\Desktop\IPAddressConfigurator\IPAddressConfigurator\obj\Debug\IPAddressConfigurator.exe
+D:\Desktop\IPAddressConfigurator\IPAddressConfigurator\obj\Debug\IPAddressConfigurator.pdb
+D:\Desktop\IPAddressConfigurator\IPAddressConfigurator\bin\Debug\Newtonsoft.Json.dll
+D:\Desktop\IPAddressConfigurator\IPAddressConfigurator\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\GitHub\micallefandsons-ipaddressconfig\IPAddressConfigurator\bin\Debug\IPAddressConfigurator.exe.config
+D:\Documents\GitHub\micallefandsons-ipaddressconfig\IPAddressConfigurator\obj\Debug\IPAddressConfigurator.exe
+D:\Documents\GitHub\micallefandsons-ipaddressconfig\IPAddressConfigurator\obj\Debug\IPAddressConfigurator.pdb

@@ -1,0 +1,8 @@
+D:\Desktop\IPAddressConfigurator\IPAddressConfigurator\bin\Release\IPAddressConfigurator.exe.config
+D:\Desktop\IPAddressConfigurator\IPAddressConfigurator\bin\Release\IPAddressConfigurator.exe
+D:\Desktop\IPAddressConfigurator\IPAddressConfigurator\bin\Release\IPAddressConfigurator.pdb
+D:\Desktop\IPAddressConfigurator\IPAddressConfigurator\bin\Release\Newtonsoft.Json.dll
+D:\Desktop\IPAddressConfigurator\IPAddressConfigurator\bin\Release\Newtonsoft.Json.xml
+D:\Desktop\IPAddressConfigurator\IPAddressConfigurator\obj\Release\IPAddressConfigurator.exe
+D:\Desktop\IPAddressConfigurator\IPAddressConfigurator\obj\Release\IPAddressConfigurator.pdb
+D:\Desktop\IPAddressConfigurator\IPAddressConfigurator\obj\Release\IPAddressConfigurator.csprojResolveAssemblyReference.cache

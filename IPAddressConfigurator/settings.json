@@ -1,0 +1,6 @@
+﻿{
+  "ConnectionName": "Ethernet",
+  "StaticIP": "192.168.0.100",
+  "Subnet":  "255.255.255.0",  
+  "ReturnMessage":  "DHCP is already enabled on this interface" 
+}
